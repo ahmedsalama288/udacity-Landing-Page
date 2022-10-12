@@ -1,10 +1,5 @@
 # Landing Page Project
 
-## CSS
-
-In css i create active class
-And Add scroll-behavior: smooth
-
 ## JS
 
 by using js i count the number of sections
